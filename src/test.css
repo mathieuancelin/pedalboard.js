@@ -1,0 +1,9 @@
+.pedal {
+  width: 250px;
+  height: 500px;
+  border: 1px solid white;
+  padding: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
